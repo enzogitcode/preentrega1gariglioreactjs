@@ -1,11 +1,12 @@
 import React from 'react'
 import TituloPrincipal from './Componentes/TituloPrincipal/tituloprincipal';
+import NavBar from './Componentes/TituloPrincipal/NavBar/NavBar';
 
 const App = () => {
   return (
     <>
-      <h1>Scala Bakery</h1>
       <TituloPrincipal/>
+      <NavBar/>
       </>
   )
 }
