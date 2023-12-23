@@ -2,7 +2,9 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>Hola Mundo</div>
+    <>
+      <h1>Scala Bakery</h1>
+      </>
   )
 }
 
